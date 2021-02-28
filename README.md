@@ -1,3 +1,2 @@
 # anh-kinh-can-blog
 ### Just Fucking Drop
-This is project source code of our blog. We write blog about tech, life, university story...
